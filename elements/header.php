@@ -17,7 +17,8 @@
   <body>
 
   <!-- BOOTSTRAP NAVBAR -->
-  <nav class="navbar navbar-expand-lg navbar-light ">
+  <nav class="navbar sticky-top navbar-expand-lg">
+      <div class="container">
   <a class="navbar-brand" href="#">
       <img id="brand-image" alt="Website Logo" src="images/logo.svg" />
   </a>
@@ -26,21 +27,22 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav ml-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">HJEMMESIDER <span class="sr-only">(current)</span></a>
+      <li class="nav-item <!--active-->">
+        <a class="nav-link" href="#hjemmesider">HJEMMESIDER <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">SEO</a>
+        <a class="nav-link" href="#seo">SEO</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">GRAFISK DESIGN</a>
+        <a class="nav-link" href="#grafiskdesign">GRAFISK DESIGN</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">OM OS</a>
+        <a class="nav-link" href="#omos">OM OS</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">KONTAKT</a>
+        <a class="nav-link" href="#kontakt">KONTAKT</a>
       </li>
     </ul>
+  </div>
   </div>
 </nav>
