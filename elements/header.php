@@ -17,7 +17,7 @@
   <body>
 
   <!-- BOOTSTRAP NAVBAR -->
-  <nav class="navbar sticky-top navbar-expand-lg">
+  <nav class="navbar sticky-top navbar-expand-lg navbar-light ">
       <div class="container">
   <a class="navbar-brand" href="#">
       <img id="brand-image" alt="Website Logo" src="images/logo.svg" />
