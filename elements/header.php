@@ -20,7 +20,7 @@
   <nav class="navbar sticky-top navbar-expand-lg navbar-light ">
       <div class="container">
   <a class="navbar-brand" href="#">
-      <img id="brand-image" alt="Website Logo" src="images/logo.svg" />
+      <img id="brand-image" alt="Website Logo" src="logo/Logo_Webravo-original.svg" />
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
