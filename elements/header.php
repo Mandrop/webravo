@@ -18,7 +18,9 @@
 
   <!-- BOOTSTRAP NAVBAR -->
   <nav class="navbar navbar-expand-lg navbar-light ">
-  <a class="navbar-brand" href="#">WeBravo</a>
+  <a class="navbar-brand" href="#">
+      <img id="brand-image" alt="Website Logo" src="images/logo.svg" />
+  </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
