@@ -2,6 +2,10 @@
 include('elements/header.php');
 ?>
 
+<head>
+    <title>Forside</title>
+</head>
+
 <h1>Webravo.dk</h1>
 <p>Body</p>
 
