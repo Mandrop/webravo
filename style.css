@@ -4,11 +4,16 @@ body{
 }
 
 /* NAVBAR */
+#brand-image{
+    height: 80px;
+}
 .navbar{
-    height: 88px;
+    /*height: 88px;*/
+    background-color: white;
+
 }
 .navbar a{
-    color: #3C3C3B
+    color: #3C3C3B!important;
 }
 
 
