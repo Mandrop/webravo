@@ -43,6 +43,10 @@ footer .btn{
     margin-top: 10px;
     padding: 10px 25px 10px 25px;
 }
+footer .btn:hover{
+    background-color: white;
+    color: black;
+}
 
 .copyright{
     background-color: #16568c;
