@@ -29,7 +29,7 @@
         <!-- KONTAKTFORMULAR -->
         
       <form class="text-center mt-5 pb-4 contact-form mb-5" action="index.php">
-        <h2 class="pb-5">Send Os En Besked</h2>
+        <h2 class="pb-4">Send Os En Besked</h2>
 
         <div class="form-group">
           <input type="text" class="form-control" id="inputAddress" placeholder="Navn" required>
@@ -41,6 +41,11 @@
 
         <div class="form-group">
           <input type="tel" class="form-control" id="inputAddress" placeholder="Telefonnumer" required>
+        </div>
+
+        <div class="form-group">
+          <textarea class="form-control" rows="5" cols="50"id="inputAddress" placeholder="Besked" required></textarea>
+
         </div>
 
         <div class="text-center">
