@@ -2,13 +2,15 @@
 include('elements/header.php');
 ?>
 
+
+<!-- COVER -->
 <div class="cover-container d-flex h-100 mx-auto flex-column">
       <div role="main" class="inner cover banner text-center">
       <div class="container">
         <h1 class="cover-heading">VI SKABER SUCCESS MED DIN <br><span class="highlight">HJEMMESIDE</span></h1>
         </div>
-</div>
     </div>
+</div>
 
 
 
