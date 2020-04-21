@@ -1,4 +1,4 @@
-    <footer>
+    <footer id="kontakt">
       <div class="container">
   
         <!-- INFORMATION CARD DECK -->
