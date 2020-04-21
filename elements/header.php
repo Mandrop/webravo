@@ -12,6 +12,8 @@
     
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap" rel="stylesheet">
 
+    <link href="cover.css" rel="stylesheet">
+
     <title>WeBravo.dk</title>
   </head>
   <body>
@@ -46,4 +48,6 @@
   </div>
   </div>
 </nav>
+
+<main>
 

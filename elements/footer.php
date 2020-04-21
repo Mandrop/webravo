@@ -1,3 +1,4 @@
+</main>
     <footer id="kontakt">
       <div class="container">
   
