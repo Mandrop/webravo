@@ -19,6 +19,9 @@ include('elements/header.php');
 
 
 
+<?php
+include('elements/vi_tilbyder.php');
+?>
 
 <?php
 include('elements/grafisk_design.php');
