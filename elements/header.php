@@ -15,6 +15,7 @@
     <link href="cover.css" rel="stylesheet">
 
     <title>WeBravo.dk</title>
+    <link rel="icon" href="logo/tab_icon.svg">
   </head>
   <body>
 
