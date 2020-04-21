@@ -20,6 +20,9 @@ include('elements/header.php');
 
 
 
+<?php
+include('elements/grafisk_design.php');
+?>
 
 <div class="container">
 <h1>Webravo.dk</h1>
