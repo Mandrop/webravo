@@ -1,6 +1,6 @@
 <!-- GRAFISK DESIGN SEKTION -->
 
-<div class="container-fluid p-0 my-5 grafisk-design">
+<div class="container-fluid p-0 grafisk-design">
 
     <div class="container-fluid bg-webravo-blue p-5 d-flex flex-column justify-content-center grafisk-design-skew text-white">
         <article class="grafisk-design-skew-back my-5">
