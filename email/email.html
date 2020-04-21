@@ -6,10 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Email</title>
     <style>
-        *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
 }
 
 header{
@@ -61,7 +65,27 @@ footer{
     width: 100%;
     height: 182px;
     margin-top: 30px;
-    background-color: grey;
+    background-color: #1D71B8;
+}
+
+.kontakt{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+}
+
+.kontakt_card{
+    margin-top: 50px;
+    color: white;
+}
+
+.kontakt_card h5{
+    font-size: 20px;
+}
+
+.kontakt_card p{
+    font-size: 15px;
+    margin-top: 15px;
 }
     </style>
 </head>
@@ -107,7 +131,21 @@ footer{
         </div>
     </section>
     <footer>
-        <h2>Kontakt</h2>
+        <div class="kontakt">
+            <div class="kontakt_card kontakt_1">
+                <h5 class="card-title">TELEFON</h5>
+                <p class="card-text">12 34 56 78</p>
+            </div>
+            <div class="kontakt_card kontakt_2">
+                <h5 class="card-title">EMAIL</h5>
+                <p class="card-text">kontakt@webravo.dk</p>
+            </div>
+            <div class="kontakt_card kontakt_3">
+                <h5 class="card-title">ADRESSE</h5>
+                <p class="card-text">Kærbyvej 7</p>
+                <p class="card-text">2610 Rødovre</p>
+            </div>
+        </div>
     </footer>
 </body>
 

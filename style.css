@@ -27,8 +27,8 @@ body{
 .cover{
     background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url("images/cover.png") no-repeat fixed center;
     height: 34vw;
-    min-height: 400px;
-    max-height: 500px;
+    min-height: 500px;
+    max-height: 530px;
     display: flex;
 
     align-items: center;
