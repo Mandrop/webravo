@@ -114,3 +114,62 @@ footer .btn:hover{
     padding: 20px 0 20px 0;
     font-weight: 100;
 }
+
+
+/* Om os CSS Starter her */
+
+
+.omos-overskrift {
+    display: grid;
+    justify-items: center;
+    padding: 30px 0; 
+}
+
+.omosall {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.omos {
+
+    width: 65%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    
+}
+.omos div {
+    display: grid;
+    justify-items: center;
+}
+.omos img {
+    width: 80%;
+}
+.omos-navn {
+    font-size: 25px;
+    font-weight: bold;
+}
+.omos-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+.omos-mail {
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 800px) and (min-width: 601px){
+    .omos {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }    
+}
+@media only screen and (max-width: 600px) {
+    .omos {
+        display: grid;
+        grid-template-columns: 1fr;
+    }    
+}
+
+/* Om os CSS Stopper her */
