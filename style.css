@@ -85,7 +85,9 @@ h1{
 
 
 /* SEO SEKTION */
-
+.pb-10procent{
+padding-bottom: 10%;
+}
 .grafisk-design{
     margin: 7rem 0rem;
 }
