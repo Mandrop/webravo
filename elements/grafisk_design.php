@@ -5,7 +5,12 @@
     <div class="container-fluid bg-webravo-blue p-5 d-flex flex-column justify-content-center grafisk-design-skew text-white">
         <article class="grafisk-design-skew-back my-5">
             <h1 class="text-center">Grafisk design</h1>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat tempora facere tenetur libero voluptas, voluptatem nostrum consequatur eligendi cum exercitationem dignissimos iure laudantium placeat est corrupti similique? Quaerat hic, voluptatem eum ducimus laboriosam tenetur maiores temporibus qui mollitia facere quisquam exercitationem placeat magnam, laudantium quos provident, culpa expedita blanditiis. Perferendis?</p> 
+            <p>Hos Webravo får du ikke bare en standard skabelon baseret hjemmeside. <br>
+Vi skaber, dit helt eget unikke digitale design på nettet, i tæt samarbejde med dig og din forretnings kerne værdier. <br>
+<br>
+Designet skal være personligt og appetitvækkende, samtidigt skal det selvfølgelig være responsivt, så det tager sig godt ud på alle de skærme, dine kunder ser hjemmesiden på. <br>
+<br>
+Hjemmesiden skal udtrykke dit budskab og give kunden overskuelighed og let mulighed for interaktion og henvendelse, det skaber konverteringer.</p> 
         </article>   
     </div>
 
