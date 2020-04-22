@@ -20,7 +20,7 @@ include('elements/header.php');
 
 
 <?php
-include('elements/grafisk_design2.php');
+include('elements/vi_tilbyder.php');
 ?>
 
 <?php
