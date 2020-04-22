@@ -3,7 +3,6 @@
 <div id="" class="container d-flex flex-column text-center justify-content-center">
 
     <div class="m-4">
-        <h2 class="">Vi tilbyder</h2>
         <h3>Hjemmeside udvikling</h3>
     </div>
 

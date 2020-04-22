@@ -15,12 +15,18 @@ include('elements/header.php');
 
 
 
+<div id="hjemmesider" class="container d-flex flex-column text-center justify-content-center">
+
+    <div class="my-2">
+        <h2 class="">Vi tilbyder</h2>
+    </div>
+
+</div>
 
 
-
-<div id="hjemmesider" class="py-5">
+<div id="" class="mt-5">
 <?php
-include('elements/vi_tilbyder.php');
+include('elements/hjemmeside-udvikling.php');
 ?>
 </div>
 
