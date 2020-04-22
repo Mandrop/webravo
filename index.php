@@ -17,7 +17,7 @@ include('elements/header.php');
 
 <div id="hjemmesider" class="container d-flex flex-column text-center justify-content-center">
 
-    <div class="my-2">
+    <div class="mb-2 mt-5">
         <h2 class="">Vi tilbyder</h2>
     </div>
 
