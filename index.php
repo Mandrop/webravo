@@ -35,8 +35,6 @@ include('elements/hjemmeside-udvikling.php');
 include('elements/grafisk_design.php');
 ?>
 </div>
-
-
 <div id="seo" class="py-5">
 <?php
 include('elements/seo.php');
