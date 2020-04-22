@@ -54,11 +54,11 @@
         <a class="nav-link" href="#hjemmesider">HJEMMESIDER <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#seo">SEO</a>
-      </li>
-      <li class="nav-item">
         <a class="nav-link" href="#grafiskdesign">GRAFISK DESIGN</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#seo">SEO</a>
+      </li>      
       <li class="nav-item">
         <a class="nav-link" href="#omos">OM OS</a>
       </li>
