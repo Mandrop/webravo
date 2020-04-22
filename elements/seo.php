@@ -1,6 +1,6 @@
 <!-- GRAFISK DESIGN SEKTION -->
 
-<div id="grafiskdesign" class="container-fluid p-0 grafisk-design">
+<div id="grafiskdesign" class="container p-0 grafisk-design">
 
     <div class="container-fluid bg-webravo-blue p-5 d-flex flex-column justify-content-center seo-skew text-white">
         <article class="seo-skew-back pb-10procent">
