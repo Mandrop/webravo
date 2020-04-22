@@ -36,12 +36,12 @@ include('elements/grafisk_design.php');
 ?>
 
 <div class="container-fluid position-relative p-0" style="height:100px">
-<img src="images/banner.png" alt="" style="width:100%;height:770%;position:absolute;top:-290px;z-index:-1;object-fit:cover;">
-</div>
+
+<img src="images/web-designer2.png" alt="" style="width:100%;height:700px;position:absolute;top:-250px;z-index:-1;object-fit:cover;">
 
 </div>
 
-
+</div>
 <div id="seo" class="py-5">
 <?php
 include('elements/seo.php');
