@@ -5,7 +5,7 @@
     <div class="container-fluid bg-webravo-blue p-5 d-flex flex-column justify-content-center grafisk-design-skew text-white">
         <article class="grafisk-design-skew-back my-5">
             <h1 class="text-center">Grafisk design</h1>
-            <p><br>
+            <p class=""><br>
             Hos Webravo får du ikke bare en standard skabelon baseret hjemmeside. <br>
 Vi skaber, dit helt eget unikke digitale design på nettet, i tæt samarbejde med dig og din forretnings kerne værdier. <br>
 <br>
