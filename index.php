@@ -48,7 +48,7 @@ include('elements/seo.php');
 ?>
 </div>
 
-
+<script src="javascript.js"></script>
 
 <?php 
 include('elements/omos.php');
