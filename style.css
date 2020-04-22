@@ -76,6 +76,22 @@ h1,h2,h3,h4,h5,h6{
     -o-transform: skewY(10deg);
 }
 
+.grafisk-design-skew2{
+  transform: skewY(10deg);
+  -webkit-transform: skewY(10deg);
+  -moz-transform: skewY(10deg);
+  -ms-transform: skewY(10deg);
+  -o-transform: skewY(10deg);
+}
+
+.grafisk-design-skew-back2{
+    transform: skewY(-10deg);
+    -webkit-transform: skewY(-10deg);
+    -moz-transform: skewY(-10deg);
+    -ms-transform: skewY(-10deg);
+    -o-transform: skewY(-10deg);
+}
+
 /* GRAFISK DESIGN SEKTION END */
 
 /* FOOTER */
