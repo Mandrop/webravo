@@ -83,6 +83,32 @@ h1{
 
 /* GRAFISK DESIGN SEKTION END */
 
+
+/* SEO SEKTION */
+
+.grafisk-design{
+    margin: 7rem 0rem;
+}
+
+.seo-skew{
+  transform: skewY(10deg);
+  -webkit-transform: skewY(10deg);
+  -moz-transform: skewY(10deg);
+  -ms-transform: skewY(10deg);
+  -o-transform: skewY(10deg);
+}
+
+.seo-skew-back{
+    transform: skewY(-10deg);
+    -webkit-transform: skewY(-10deg);
+    -moz-transform: skewY(-10deg);
+    -ms-transform: skewY(-10deg);
+    -o-transform: skewY(-10deg);
+}
+
+
+/* SEO SEKTION END */
+
 /* FOOTER */
 footer{
     background-color: #1D71B8;
