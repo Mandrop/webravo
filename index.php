@@ -18,15 +18,17 @@ include('elements/header.php');
 
 
 
-
+<div id="hjemmesider" class="py-5">
 <?php
 include('elements/vi_tilbyder.php');
 ?>
+</div>
 
+<div id="grafiskdesign" class="py-5">
 <?php
 include('elements/grafisk_design.php');
 ?>
-
+</div>
 
 
 <div class="container">
