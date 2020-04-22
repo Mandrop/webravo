@@ -1,6 +1,6 @@
 <!-- VI TILBYDER SEKTION -->
 
-<div class="container d-flex flex-column text-center justify-content-center">
+<div id="hjemmesider" class="container d-flex flex-column text-center justify-content-center">
 
     <div class="m-4">
         <h2 class="">Vi tilbyder</h2>
