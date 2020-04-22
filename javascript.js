@@ -1,31 +1,49 @@
-function active_title(){
-    var title = document.title;
+if(scrollTop() > 100){ 
 
-
-
-    if(title == "Forside"){
-        document.getElementById("forside").classList.add("active");
-    }
-
-    if(title == "Kalender"){
-        document.getElementById("kalender").classList.add("active");
-    }
-
-    if(title == "Nyheder"){
-        document.getElementById("nyheder").classList.add("active");
-    }
-
-    if(title == "Galleri"){
-        document.getElementById("galleri").classList.add("active");
-    }
-
-    if(title == "Om_os"){
-        document.getElementById("om-os").classList.add("active");
-    }
-
-    if(title == "Kontakt"){
-        document.getElementById("kontakt").classList.add("active");
-    }
+    document.getElementByClassName("menuitem")[0].style.borderBottom="2px solid #2cafe4";
+    
+}
+    
+if(scrollTop() > 200){ 
+    
+    document.getElementByClassName("menuitem")[1].style.borderBottom="2px solid #2cafe4";
+    
+    document.getElementByClassName("menuitem")[0].style.borderBottom="0px";
+    
+}
+    
+if(scrollTop() > 300){ 
+    
+    document.getElementByClassName("menuitem")[2].style.borderBottom="2px solid #2cafe4";
+    
+    document.getElementByClassName("menuitem")[0].style.borderBottom="0px";
+    
+    document.getElementByClassName("menuitem")[1].style.borderBottom="0px";
+    
 }
 
-active_title()
+if(scrollTop() > 300){ 
+    
+    document.getElementByClassName("menuitem")[3].style.borderBottom="2px solid #2cafe4";
+    
+    document.getElementByClassName("menuitem")[0].style.borderBottom="0px";
+    
+    document.getElementByClassName("menuitem")[1].style.borderBottom="0px";
+
+    document.getElementByClassName("menuitem")[2].style.borderBottom="0px";
+    
+}
+
+if(scrollTop() > 300){ 
+    
+    document.getElementByClassName("menuitem")[4].style.borderBottom="2px solid #2cafe4";
+    
+    document.getElementByClassName("menuitem")[0].style.borderBottom="0px";
+    
+    document.getElementByClassName("menuitem")[1].style.borderBottom="0px";
+
+    document.getElementByClassName("menuitem")[2].style.borderBottom="0px";
+
+    document.getElementByClassName("menuitem")[3].style.borderBottom="0px";
+    
+}
