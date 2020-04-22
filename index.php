@@ -48,12 +48,14 @@ include('elements/seo.php');
 ?>
 </div>
 
-<script src="javascript.js"></script>
-
+<div id="omos">
 <?php 
 include('elements/omos.php');
 ?>
+</div>
 
 <?php
 include('elements/footer.php');
 ?>
+
+<script src="javascript.js"></script>
