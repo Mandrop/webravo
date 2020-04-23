@@ -26,6 +26,18 @@ h1{
 }
 
 /* NAVBAR */
+.nav-link{
+    border-Bottom: 2px solid transparent;
+}
+
+#navlink1, #navlink2, #navlink3,#navlink4,#navlink5{
+    transition: all .6s ease;
+    -webkit-transition: all .6s ease;
+    -moz-transition: all .6s ease;
+    -ms-transition: all .6s ease;
+    -o-transition: all .6s ease;
+}
+
 #brand-image{
     height: 80px;
 }
