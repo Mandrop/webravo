@@ -3,14 +3,14 @@ include('elements/header.php');
 ?>
 
 
-<body>
+<body class="">
 
 
 <?php 
 include('elements/navbar.php');
 ?>
 
-<main class="container">
+<main class="container-fluid">
 
 <!-- COVER -->
 <div class="cover-container d-flex h-100 mx-auto flex-column">
