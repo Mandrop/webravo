@@ -1,5 +1,5 @@
 window.onscroll = function(){
-    console.log(window.pageYOffset);
+ /*    console.log(window.pageYOffset); */
 	if(window.pageYOffset > 180 && window.pageYOffset < 700){
 		document.getElementById('navlink1').style.color ="#2cafe4";
 
@@ -32,7 +32,7 @@ window.onscroll = function(){
 
 	}
 
-    if(window.pageYOffset > 3250 && window.pageYOffset < 3750){
+    if(window.pageYOffset > 3250) {
 		document.getElementById('navlink5').style.color ="#2cafe4";
 
 	}else{
