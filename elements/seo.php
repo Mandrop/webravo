@@ -6,13 +6,14 @@
         <article class="seo-skew-back pb-10procent">
             <h1 class="text-center">SEO</h1>
             <div class="container d-flex">
-            <p class="">
+            <p style="margin: 30px; margin-top: 50px;">
             Analysen undersøger konkurrenceniveauet, samt hvilke søgeord som <br> 
             er relevante for jer. Identificering og analysering af specifikke søgeord <br>
             er afgørende, når I skal nå jeres målgrupper og opnå synlige <br>
             placeringer på søgemaskinerne.</p>             
-            <p>Vi arbejde med hjemmesiden, og foretager en række optimeringer i <br>
-                teknik og indhold. Formålet er at stille hjemmesiden op så godt som muligt, imod relevante søgeord.</p>
+            <p style="margin: 30px; margin-top: 50px">Vi arbejde med hjemmesiden, og foretager en række optimeringer i <br>
+                teknik og indhold. Formålet er at stille hjemmesiden op så godt som <br>
+                muligt, imod relevante søgeord.</p>
 
             
             </div>    
