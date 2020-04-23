@@ -10,7 +10,7 @@ include('elements/header.php');
 include('elements/navbar.php');
 ?>
 
-<main class="container-fluid">
+<main class="container-fluid p-0">
 
 <!-- COVER -->
 <div class="cover-container d-flex h-100 mx-auto flex-column">
