@@ -10,19 +10,19 @@
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item <!--active-->">
-        <a class="nav-link" href="#hjemmesider">HJEMMESIDER <span class="sr-only">(current)</span></a>
+        <a id="navlink1" class="nav-link" href="#hjemmesider">HJEMMESIDER <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#grafiskdesign">GRAFISK DESIGN</a>
+        <a id="navlink2" class="nav-link" href="#grafiskdesign">GRAFISK DESIGN</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#seo">SEO</a>
+        <a id="navlink3" class="nav-link" href="#seo">SEO</a>
       </li>      
       <li class="nav-item">
-        <a class="nav-link" href="#omos">OM OS</a>
+        <a id="navlink4" class="nav-link" href="#omos">OM OS</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#kontakt">KONTAKT</a>
+        <a id="navlink5" class="nav-link" href="#kontakt">KONTAKT</a>
       </li>
     </ul>
   </div>
