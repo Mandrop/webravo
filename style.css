@@ -66,19 +66,19 @@ h1{
 }
 
 .grafisk-design-skew{
-  transform: skewY(-10deg);
-  -webkit-transform: skewY(-10deg);
-  -moz-transform: skewY(-10deg);
-  -ms-transform: skewY(-10deg);
-  -o-transform: skewY(-10deg);
+  transform: skewY(-5deg);
+  -webkit-transform: skewY(-5deg);
+  -moz-transform: skewY(-5deg);
+  -ms-transform: skewY(-5deg);
+  -o-transform: skewY(-5deg);
 }
 
 .grafisk-design-skew-back{
-    transform: skewY(10deg);
-    -webkit-transform: skewY(10deg);
-    -moz-transform: skewY(10deg);
-    -ms-transform: skewY(10deg);
-    -o-transform: skewY(10deg);
+    transform: skewY(5deg);
+    -webkit-transform: skewY(5deg);
+    -moz-transform: skewY(5deg);
+    -ms-transform: skewY(5deg);
+    -o-transform: skewY(5deg);
 }
 
 
@@ -94,19 +94,19 @@ padding-bottom: 10%;
 }
 
 .seo-skew{
-  transform: skewY(10deg);
-  -webkit-transform: skewY(10deg);
-  -moz-transform: skewY(10deg);
-  -ms-transform: skewY(10deg);
-  -o-transform: skewY(10deg);
+  transform: skewY(5deg);
+  -webkit-transform: skewY(5deg);
+  -moz-transform: skewY(5deg);
+  -ms-transform: skewY(5deg);
+  -o-transform: skewY(5deg);
 }
 
 .seo-skew-back{
-    transform: skewY(-10deg);
-    -webkit-transform: skewY(-10deg);
-    -moz-transform: skewY(-10deg);
-    -ms-transform: skewY(-10deg);
-    -o-transform: skewY(-10deg);
+    transform: skewY(-5deg);
+    -webkit-transform: skewY(-5deg);
+    -moz-transform: skewY(-5deg);
+    -ms-transform: skewY(-5deg);
+    -o-transform: skewY(-5deg);
 }
 
 
