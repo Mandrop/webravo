@@ -7,7 +7,10 @@
     </div>
 
     <article class="container border text-left p-4">
-        <p>Din hjemmeside er ofte din repræsentant for din virksomhed. Det er ofte det første en kommende kunde møder, og derfor skal dit webdesign se godt ud. Vi ved at et veludviklet design skaber kunder og øger din konvertering markant. Derfor vægter vi dette punkt højt. Vi er specialistister i design udvikling, og har flere års erfaring.</p>
+        <p>Din hjemmeside er ofte din repræsentant for din virksomhed. <br>
+        Det er ofte det første en kommende kunde møder, og derfor skal dit webdesign se godt ud. <br>
+        Vi ved at et veludviklet design skaber kunder og øger din konvertering markant. <br>
+        Derfor vægter vi dette punkt højt. Vi er specialistister i design udvikling, og har flere års erfaring.</p>
     </article>
 
 
